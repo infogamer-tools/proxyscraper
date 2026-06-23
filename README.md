@@ -1,4 +1,4 @@
-# 🚀 ProxyScraper – Ultra‑Fast Proxy Scraper & Tester
+# 🚀 ProxyHarvester – Ultra‑Fast Proxy Scraper & Tester
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -6,6 +6,10 @@
 
 An asynchronous, high‑speed proxy scraper and validator that collects thousands of free proxies from **100+ public sources** and tests them against `login.live.com` in seconds.  
 Built for security researchers, developers, and anyone who needs a fresh, verified proxy list.
+
+> **Made by [info.gamer](https://github.com/infogamer-tools)**  
+> 🔗 **Repo:** [https://github.com/infogamer-tools/proxyscraper](https://github.com/infogamer-tools/proxyscraper)  
+> 💬 **Discord:** [https://discord.gg/wXW43zf352](https://discord.gg/wXW43zf352) – Join for support & updates!
 
 ---
 
@@ -38,14 +42,14 @@ pip install -r requirements.txt
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/proxyharvester.git
-cd proxyharvester
+git clone https://github.com/infogamer-tools/proxyscraper.git
+cd proxyscraper
 
 # 2. Install dependencies
 pip install -r requirements.txt
 
 # 3. Run the scraper
-python proxyharvester.py
+python proxyharvester.py   # (or whatever you name the script)
 ```
 
 After a short while you’ll find two files in the current directory:
@@ -106,19 +110,27 @@ Latency is measured from the start of the request until the first byte of a `200
 
 ## 📚 Use Cases
 
-- Web scraping & crawling
-- Security testing (pentesting, bug bounty)
-- Accessing geo‑restricted content
-- Load testing & network analysis
-- Avoiding rate limits
+- Web scraping & crawling (with permission)
+- Security research & bug bounty
+- Network analysis & testing
+- Educational projects and learning
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Important Disclaimer
 
-This tool is intended for **educational and ethical purposes only**.  
-You are responsible for complying with the terms of service of any website you access using these proxies.  
-The proxies collected are **publicly available**; their quality and anonymity are not guaranteed.
+**This tool is intended for educational and ethical purposes ONLY.**
+
+- You must **not** use it for any unauthorized, illegal, or unethical activities.
+- The proxies collected are **publicly available**; their quality, legality, and anonymity are not guaranteed.
+- You are solely responsible for complying with all applicable laws and the terms of service of any website you access.
+
+**Modification & redistribution** of this code are allowed, provided:
+- You do **not** use it for unauthorized or unethical purposes.
+- You retain proper credit to the original author (**info.gamer** / **infogamer-tools**).
+- Any repost clearly states these same usage restrictions.
+
+By using this tool you agree that **info.gamer** / **infogamer-tools** cannot be held liable for your actions.
 
 ---
 
@@ -132,21 +144,20 @@ You can help by:
 - Adding new protocols (HTTP, SOCKS4)
 - Writing tests or documentation
 
+Please ensure any contribution aligns with the **educational and ethical** nature of this project.
+
 ---
 
 ## 📜 License
 
-MIT – do what you want, just keep the credit.  
-© 2026 
-
-InfoGamer
-
-Dc handle = info.gamer.
+MIT – see [LICENSE](LICENSE) for details.  
+© 2026 [info.gamer](https://github.com/infogamer-tools)
 
 ---
 
-## ⭐ Support Server
+## ⭐ Support
 
-https://discord.gg/xdmVThezjJ
+If you find this tool useful, drop a ⭐ on the repo and join the community:
 
-If you find this tool useful, drop a ⭐ on the repo and share it with your Discord community!
+- **Discord:** [https://discord.gg/wXW43zf352](https://discord.gg/wXW43zf352)  
+- **GitHub:** [https://github.com/infogamer-tools/proxyscraper](https://github.com/infogamer-tools/proxyscraper)
