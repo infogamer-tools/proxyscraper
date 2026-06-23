@@ -137,10 +137,16 @@ You can help by:
 ## 📜 License
 
 MIT – do what you want, just keep the credit.  
-© 2026 [Your Name / Handle]
+© 2026 
+
+InfoGamer
+
+Dc handle = info.gamer.
 
 ---
 
-## ⭐ Support
+## ⭐ Support Server
+
+https://discord.gg/xdmVThezjJ
 
 If you find this tool useful, drop a ⭐ on the repo and share it with your Discord community!
