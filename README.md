@@ -49,7 +49,7 @@ cd proxyscraper
 pip install -r requirements.txt
 
 # 3. Run the scraper
-python proxyscraper.py   # (or whatever you name the script)
+python proxy.py   # (or whatever you name the script)
 ```
 
 After a short while you’ll find two files in the current directory:
